@@ -22,7 +22,7 @@ Likewise I strongly suggest using a VM versus a dual-boot setup, Simply because 
 
 On the Kali Linux download page [(https://www.kali.org/downloads/)](https://www.kali.org/downloads/) there are lots of different images available to suit whatever you need, however to ease the installation step a little I'm going to suggest we use the pre-built VMWare VM.
 
-We can find the pre-built images on the Offensive Security VM Download Page [https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/) and select the **Kali Linux VMware 64-Bit** VM to download. (I'm using version 2020.3)
+We can find the pre-built images on the Offensive Security VM Download Page [https://www.kali.org/get-kali/#kali-virtual-machines](https://www.kali.org/get-kali/#kali-virtual-machines) and select the **Kali Linux VMware 64-Bit** VM to download. (I'm using version 2021.2)
 
 > :warning: The downloaded file is a 7-zip compressed file so you'll need to extract it before you can use it. You can easily download and install 7-zip if you need it. 
 
@@ -30,7 +30,7 @@ We can find the pre-built images on the Offensive Security VM Download Page [htt
 
 Once you have downloaded and extracted the Kali VM we need to open it with VMWare. So open VMWare, and choose the **Open a Virtual Machine** option. You'll be asked for the file location of the VM, so navigate to the extracted folder and choose the **.vmx** file.
 
-> :writing_hand: For me this was Kali-Linux-2020.3-vmware-amd64.vmx
+> :writing_hand: For me this was Kali-Linux-2021.2-vmware-amd64.vmx
 
 Once opened you'll have the option to **Power on this virtual machine** so choose this and when prompted select **I copied it**. The VM should now start booting up for us.
 
