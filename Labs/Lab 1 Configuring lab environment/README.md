@@ -9,9 +9,9 @@ ___
 ## Recommended Lab Setup:
 
 1. A hypervisor to allow us run virtual machines.  
--- VMWare Workstation Pro 
+-- VirtualBox (I'll be using version 6.1.26, I usually recommend VMWare Workstation Pro, but I can't currently get licences) 
 2. A Linux VM  
--- Kali Linux
+-- Kali Linux (I'll be using kali 2021.3, but any modern linux VM should be fine) 
 3. An IDE for our coding  
 -- VS Code 
 4. Version control / Hosting  
@@ -21,7 +21,14 @@ ___
 
 
 ## Detailed Instructions:
+1. [Download and install Oracle VirtualBox](https://www.virtualbox.org/manual/UserManual.html#intro-installing)
+2. [Download and install Kali Linux](https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/)
+3. [Tweaking our Initial Kali setup](3_tweaking_kali.md)
+4. [Getting Started with Github](4_introducing_github.md)
+5. [Installing, Configuring and using VSCode](5_setup_vscode.md)
 
+
+## Older instructions:
 1. [Getting a VMWare Workstation Pro Licence](1_vmware_licence.md)
 2. [Downloading and using Kali Linux](2_kali_linux.md)
 3. [Tweaking our Initial Kali setup](3_tweaking_kali.md)
