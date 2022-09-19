@@ -9,9 +9,9 @@ ___
 ## Recommended Lab Setup:
 
 1. A hypervisor to allow us run virtual machines.  
--- VirtualBox (I'll be using version 6.1.26, I usually recommend VMWare Workstation Pro, but I can't currently get licences) 
+-- VirtualBox 
 2. A Linux VM  
--- Kali Linux (I'll be using kali 2021.3, but any modern linux VM should be fine) 
+-- Kali Linux recommended, but any modern linux VM should be fine
 3. An IDE for our coding  
 -- VS Code 
 4. Version control / Hosting  
