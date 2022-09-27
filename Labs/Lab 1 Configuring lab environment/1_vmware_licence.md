@@ -8,7 +8,7 @@ I'm recommending VMWare Workstation Pro (Or Fusion on Mac). If you don't manage 
 
 > :writing_hand: If you're unable to login, then please email me from your university email account, with the subject: VMWare Licence. 
 
-> :warning: You have until **Friday 24th Sept** to email me and claim a licence. I wont be adding any more users after that date and you'll have to use Virtualbox. 
+> :warning: You have until **Friday 7th Oct** to email me and claim a licence. I wont be adding any more users after that date and you'll have to use Virtualbox. 
 
 Once you've accessed the WebStore, 
 
