@@ -54,7 +54,7 @@ rescue-ssh.target is a disabled or a static unit, not starting it.
 ```
 
 ## 3. Creating a New User Account
-Since Kali 2020.1, Kali now comes with a low privileged user account by default (the kali user). This is much better than the older root by default, and normally this kali user account would be perfect to use. However I want everyone to create a new user account using their student ID number, and full name so something like b00123456, Mark Cummins. 
+Since Kali 2020.1, Kali now comes with a low privileged user account by default (the kali user). This is much better than the older root by default, and normally this kali user account would be perfect to use. However I want everyone to create a new user account using their student ID number, and full name so something like b00123456, Phillip Fitzpatrick. 
 
 >:warning: Obviously you should use you own student number in place of the demo ID I'm using
 
