@@ -28,7 +28,7 @@ ___
 5. [Installing, Configuring and using VSCode](5_setup_vscode.md)
 
 
-## Older instructions:
+## Older instructions: (Do not use)
 1. [Getting a VMWare Workstation Pro Licence](1_vmware_licence.md)
 2. [Downloading and using Kali Linux](2_kali_linux.md)
 3. [Tweaking our Initial Kali setup](3_tweaking_kali.md)
