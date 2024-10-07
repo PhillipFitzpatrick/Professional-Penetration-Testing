@@ -22,7 +22,7 @@ Likewise I strongly suggest using a VM versus a dual-boot setup, Simply because 
 
 On the Kali Linux download page [(https://www.kali.org/downloads/)](https://www.kali.org/downloads/) there are lots of different images available to suit whatever you need, however to ease the installation step a little I'm going to suggest we use the pre-built VMWare VM.
 
-We can find the pre-built images on the Offensive Security VM Download Page [https://www.kali.org/get-kali/#kali-virtual-machines](https://www.kali.org/get-kali/#kali-virtual-machines) and select the **Kali Linux VMware 64-Bit** VM to download. (I'm using version 2021.2)
+We can find the pre-built images on the Offensive Security VM Download Page [https://www.kali.org/get-kali/#kali-virtual-machines](https://www.kali.org/get-kali/#kali-virtual-machines) and select the **Kali Linux VMware 64-Bit** VM to download. Enusure that you keep your envionment up to date.
 
 > :warning: The downloaded file is a 7-zip compressed file so you'll need to extract it before you can use it. You can easily download and install 7-zip if you need it. 
 
