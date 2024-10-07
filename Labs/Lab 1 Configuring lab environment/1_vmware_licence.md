@@ -1,4 +1,5 @@
-# VMWare Workstation Pro Licence NO LONGER REQUIRED - USE VBOX
+# @October 2024
+# NO LONGER REQUIRED - USE VBOX
 
 # Getting a VMWare Workstation Pro Licence
 
