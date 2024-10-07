@@ -1,3 +1,5 @@
+# VMWare Workstation Pro Licence NO LONGER REQUIRED - USE VBOX
+
 # Getting a VMWare Workstation Pro Licence
 
 I'm recommending VMWare Workstation Pro (Or Fusion on Mac). If you don't manage to get a licence key then the free Virtualbox is a suitable alternative.  
