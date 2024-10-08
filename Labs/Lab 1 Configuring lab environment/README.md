@@ -18,4 +18,4 @@ ___
 ## Detailed Instructions:
 1. [Download and install Oracle VirtualBox](https://www.virtualbox.org/manual/UserManual.html#intro-installing)
 2. [Download and install Kali Linux](https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/)
-3. [Tweaking our Initial Kali setup](3_tweaking_kali.md)
+3. [Tweaking our Initial Kali setup](2_tweaking_kali.md)
